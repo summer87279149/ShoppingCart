@@ -1,0 +1,29 @@
+PODS:
+  - MJExtension (3.0.13)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage-Category (1.4):
+    - SDWebImage
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MJExtension
+  - ReactiveCocoa (= 2.5)
+  - SDWebImage-Category (~> 1.4)
+
+SPEC CHECKSUMS:
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SDWebImage-Category: 1f1c00880a538f7faf5b726e1559cf1ca555c553
+
+PODFILE CHECKSUM: 3abb8dd9f9629bd403edf3ff747bfe2275ce89b1
+
+COCOAPODS: 1.2.0.beta.1

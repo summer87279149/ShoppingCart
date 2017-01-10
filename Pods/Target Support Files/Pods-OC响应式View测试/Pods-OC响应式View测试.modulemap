@@ -1,0 +1,6 @@
+framework module Pods_OC___View__ {
+  umbrella header "Pods-OC响应式View测试-umbrella.h"
+
+  export *
+  module * { export * }
+}
